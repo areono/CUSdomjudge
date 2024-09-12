@@ -1,12 +1,9 @@
 # 1. 설치 가이드
 
-```shell
-    
-    # **Domjudge Docker**
-    
-    설치는 **리눅스 환경**을 기본으로 합니다.
-    
-    # **파일 다운로드**
+
+# **Domjudge Docker**
+설치는  **리눅스 환경**을 기본으로 합니다.
+# **파일 다운로드**
     
     일단, [도커](https://www.docker.com/) 와 [도커 컴포즈](https://docs.docker.com/compose/)가 깔려 있어야 합니다.
     
