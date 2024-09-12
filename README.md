@@ -84,7 +84,6 @@
     $ docker exec -it domserver cat /opt/domjudge/domserver/etc/restapi.secret
     
     $ default	http://local/domjudge/api	judgehost <judgehost pasword>
-```
 # **실행**
     
 
@@ -193,4 +192,3 @@ GRUB_CMDLINE_LINUX_DEFAULT="quiet cgroup_enable=memory swapaccount=1 systemd.uni
     [Sep 11 01:57:06.632] judgedaemon[195]: Registering judgehost on endpoint default: http://domserver/api/v4
     [Sep 11 01:57:07.132] judgedaemon[195]: No submissions in queue (for endpoint default), waiting...
     ```
->>>>>>> 12bdd2a70c226d08fc48383eccd94e91e882c762
