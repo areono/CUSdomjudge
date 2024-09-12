@@ -1,8 +1,3 @@
-
-$ docker pull domjudge/domserver
-$ docker pull domjudge/judgehost
-
-```shell
 version: '3.9'
 
 networks:
@@ -58,6 +53,5 @@ services:
       - CONTAINER_TIMEZONE=Asia/Seoul
       - JUDGEDAEMON_USERNAME=judgehost
       - DAEMON_ID=0
-      - JUDGEDAEMON_PASSWORD = <judgehost password> 
-```
-      
+      - JUDGEDAEMON_PASSWORD = <judgehost password>  # docker exec -it domserver cat /opt/domjudge/domserver/etc/restapi.secret
+
