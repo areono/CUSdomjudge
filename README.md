@@ -79,7 +79,7 @@
 # **judgehsot password 찾기**
     
 ```
-    $ docker compose up -d domserver mariadb
+    $ docker compose up -d mariadb domserver
     
     $ docker exec -it domserver cat /opt/domjudge/domserver/etc/restapi.secret
     
