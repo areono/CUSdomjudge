@@ -1,0 +1,217 @@
+-
+        label: A
+        letter: A
+        name: '보물 찾기(하)'
+        short-name: ag0001
+        color: mediumpurple
+        rgb: '#9486EA'
+    -
+        label: B
+        letter: B
+        name: '그래프의	표현(하)'
+        short-name: ag0008
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: C
+        letter: C
+        name: '도미노(하)'
+        short-name: ag0009
+        color: saddlebrown
+        rgb: '#9B630C'
+    -
+        label: D
+        letter: D
+        name: '섬의	크기(중)'
+        short-name: ag0010
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: E
+        letter: E
+        name: '아는	사람(중)'
+        short-name: ag0011
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: F
+        letter: F
+        name: '모든	쌍의	최단경로(상)'
+        short-name: ag0012
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: G
+        letter: G
+        name: '색상	통일	2(상)'
+        short-name: ag0013
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: H
+        letter: H
+        name: '문제	출제하기(하)'
+        short-name: ag0014
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: I
+        letter: I
+        name: '거스름돈(하)'
+        short-name: ag0015
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: J
+        letter: J
+        name: '싱싱청과물(하)'
+        short-name: ag0016
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: K
+        letter: K
+        name: '겨울나기(중)'
+        short-name: ag0017
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: L
+        letter: L
+        name: '색상	통일(중)'
+        short-name: coloring
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: M
+        letter: M
+        name: '잠자리(중)'
+        short-name: dragonfly
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: N
+        letter: N
+        name: '인싸 컴공이(하)'
+        short-name: inssa
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: O
+        letter: O
+        name: 'LCS(중)'
+        short-name: LCS
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: P
+        letter: P
+        name: '자리	배치(상)'
+        short-name: locate
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: Q
+        letter: Q
+        name: '1.	Hello,	World!'
+        short-name: man01
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: R
+        letter: R
+        name: '2.	Hello!	Eum-mea'
+        short-name: man02
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: S
+        letter: S
+        name: '3.	정수	1개	입력받아	그대로	출력하기'
+        short-name: man03
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: T
+        letter: T
+        name: '4.	두	개의	정수를	입력받아	그	합을	출력하기'
+        short-name: man04
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: U
+        letter: U
+        name: '5.	n	개의	정수를	입력받아	그	합을	출력하기'
+        short-name: man05
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: V
+        letter: V
+        name: 'PS장학금(하)'
+        short-name: scholarship
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: W
+        letter: W
+        name: '색	채우기(중)'
+        short-name: x0000
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: X
+        letter: X
+        name: 'CU코인(하)'
+        short-name: x0001
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: Y
+        letter: Y
+        name: '블럭	건너가기'
+        short-name: x0002
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: Z
+        letter: Z
+        name: '공강시간'
+        short-name: x0004
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: AA
+        letter: A
+        name: '쓰까마시자!'
+        short-name: x0006
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: AB
+        letter: B
+        name: '권력 분산'
+        short-name: x0007
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: AC
+        letter: C
+        name: '전자렌인지'
+        short-name: x0008
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: AD
+        letter: D
+        name: '컨테스트'
+        short-name: x0009
+        color: orangered
+        rgb: '#E93603'
+    -
+        label: AE
+        letter: E
+        name: '보도블럭'
+        short-name: x0011
+        color: orangered
+        rgb: '#E93603'
